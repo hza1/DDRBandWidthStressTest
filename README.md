@@ -5,6 +5,30 @@ DDR Bandwidth StressTest tool, surpport arm/x86/Nvidia Orin/Thor
 
 针对 Nvidia Thor SoC 芯片的 DDR 带宽上限测试工具，支持 CPU、GPU 及混合模式。
 
+## donation
+
+```
+┌────────────────────────────────────────────────┐
+│                     感谢您的善意                 │
+│                                                │
+│  [¥6.66]    [¥12.22]    [¥22.22]    [任意金额]   │
+│  一份早餐     一杯咖啡     一顿午餐      土豪打赏    │
+│  帮到小忙     提供效率    解决燃煤之急    大哥乐意   │
+│                                                │
+└────────────────────────────────────────────────┘
+```
+### 帮到了您一点儿小忙
+<img src="assets/6.jpg" width="240">
+
+### 完美满足了您的需求提高了工作效率
+<img src="assets/12.jpg" width="240">
+
+### 解决了您工作中棘手的问题或困难
+<img src="assets/22.jpg" width="240">
+
+### 大哥您喜欢就好我都行
+<img src="assets/paycode.jpg" width="240">
+
 ## 目标平台
 
 - 架构：ARM64 (aarch64)
